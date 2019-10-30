@@ -17,6 +17,8 @@ namespace MyUnitTest
             Assert.AreEqual(expectedResult,actualResult);
 
         }
+
+
         [TestMethod]
         public void TestMul()
         {
